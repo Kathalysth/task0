@@ -1,6 +1,5 @@
 import { UncontrolledTooltip, Row, Col } from "reactstrap";
 import myPic from "../assets/my-portrait.jpg";
-import camera from "../assets/camera-svgrepo-com (2).svg";
 const Profile = () => {
   return (
     <section>
